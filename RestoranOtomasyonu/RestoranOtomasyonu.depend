@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1727452165 source:c:\users\user\desktop\yeni klasör\restoranotomasyonu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"headher.h"
+	"mainmenu.h"
+	"menulist.h"
+	"tables.h"
+	"daily.h"
+	"payments.h"
+
+1727452165 c:\users\user\desktop\yeni klasör\restoranotomasyonu\headher.h
+
+1727450975 c:\users\user\desktop\yeni klasör\restoranotomasyonu\mainmenu.h
+
+1727452225 c:\users\user\desktop\yeni klasör\restoranotomasyonu\menulist.h
+
+1727449699 c:\users\user\desktop\yeni klasör\restoranotomasyonu\tables.h
+
+1727449699 c:\users\user\desktop\yeni klasör\restoranotomasyonu\daily.h
+
+1727449699 c:\users\user\desktop\yeni klasör\restoranotomasyonu\payments.h
+
